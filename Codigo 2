@@ -1,0 +1,3 @@
+# comentario
+x <-rnorm(100)
+plot (x, type "l")
